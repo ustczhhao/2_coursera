@@ -1,2 +1,2 @@
 # 2_coursera
-codes and projects for taking the Coursera online courses
+Code and projects completed through Coursera online courses.
